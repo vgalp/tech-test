@@ -1,19 +1,4 @@
-[{
-
-  "timeline": [
-    {
-      "moved": 0,
-      "ringId": "adopt",
-      "date": "@{currentdate}"
-
-    }
-  ],
-  "url": "https://www.javascript.com/",
-  "key": "c#",
-  "id": "c#",
-  "title": "C#",
-  "quadrant": "languages"
-},
+[
 
 {
 
