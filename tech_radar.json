@@ -1,1 +1,18 @@
-
+{
+"entries": [
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": ".NET Framework",
+      "active": true,
+      "moved": 0,
+      "link": "www.microsoft.com"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Typescript",
+      "active": true,
+      "moved": 0, 
+      "link": "www.microsoft.com"
+    },
