@@ -1,8 +1,8 @@
 {
 "entries": [
     {
-      "quadrant": 2,
-      "ring": 3,
+      "quadrant": "languages",
+      "ring": "adopt",
       "label": ".NET Framework",
       "active": true,
       "moved": 0,
@@ -10,8 +10,8 @@
     },
 
      {
-      "quadrant": 2,
-      "ring": 3,
+      "quadrant": "languages",
+      "ring": "adopt",
       "label": ".NET Framework",
       "active": true,
       "moved": 0,
@@ -19,8 +19,8 @@
     },
 
      {
-      "quadrant": 2,
-      "ring": 3,
+      "quadrant": "languages",
+      "ring": "adopt",
       "label": ".NET Framework",
       "active": true,
       "moved": 0,
