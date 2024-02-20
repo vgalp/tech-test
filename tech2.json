@@ -1,5 +1,5 @@
 {
-"entries": [
+  "entries": [
     {
       "quadrant": "languages",
       "ring": "adopt",
@@ -8,8 +8,7 @@
       "moved": 0,
       "link": "https://wiki.ge"
     },
-
-     {
+    {
       "quadrant": "languages",
       "ring": "adopt",
       "label": ".NET Framework",
@@ -17,8 +16,7 @@
       "moved": 0,
       "link": "https://wiki.ge"
     },
-
-     {
+    {
       "quadrant": "languages",
       "ring": "adopt",
       "label": ".NET Framework",
@@ -26,6 +24,5 @@
       "moved": 0,
       "link": "https://wiki.ge"
     }
-]
-
-  }
+  ]
+}
